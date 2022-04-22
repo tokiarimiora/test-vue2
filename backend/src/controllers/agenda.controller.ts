@@ -15,7 +15,7 @@ export const getAgenda = async (req: Request, res: Response) => {
       created: '2020-03-15 17:10:00',
       updated: '2020-03-15 17:10:00',
       cover:
-        'https://i.picsum.photos/id/1015/6000/4000.jpg?hmac=aHjb0fRa1t14DTIEBcoC12c5rAXOSwnVlaA5ujxPQ0I',
+        'https://cdn.vuetifyjs.com/images/cards/cooking.png',
       thumbnail: '/medias/image/thumbnail_27499552060c0d262d8601.jpg',
       _embedded: {
         address: {

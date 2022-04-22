@@ -22,9 +22,8 @@ export default {
 };
 </script>
 <style>
-.v-main__wrap {
+.v-main__wrap,
+body {
   background: #eddff0;
-  --primary-color: #9c2fae;
-  --secondary-color: #e9d6ec;
 }
 </style>
